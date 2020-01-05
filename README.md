@@ -16,4 +16,4 @@ Data:
 - elec_results.csv
 
 Overview:
-
+The Electoral College can be thought of as a weighted voting game for which voting power can be calculated each of fifty-one players (50 states + DC).  This analysis takes the calculation one step further to calculate the probabilistic voting power of the players based on the probabilities of each voting for a Republican (or Democratic) presidential candidate.
