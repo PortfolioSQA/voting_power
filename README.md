@@ -1,5 +1,7 @@
 # Voting Power
 Probabilistic Banzhaf Power Index for the Electoral College
+https://portfoliosqa.github.io/voting_power/
+
 
 Libraries:
 - Python 3.7.4
